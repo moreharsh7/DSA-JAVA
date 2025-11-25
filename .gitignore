@@ -1,0 +1,11 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore common Java compile folders
+/bin/
+/out/
+/target/
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
