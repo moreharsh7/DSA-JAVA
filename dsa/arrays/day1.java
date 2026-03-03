@@ -180,8 +180,7 @@ public class day1 {
     public static void main(String[] args) {
       //  int marks[]={2,4,6,8,10,12};
        int height[]={4,2,0,6,3,2,5};
-       int key=67;
-
+       
  //  printSubarrays(marks);
       //  printSubarrays(marks);
       //  printMaxSubArraySum(marks);
