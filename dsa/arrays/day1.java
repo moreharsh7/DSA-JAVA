@@ -181,7 +181,7 @@ public class day1 {
       //  int marks[]={2,4,6,8,10,12};
        int height[]={4,2,0,6,3,2,5};
        
- //  printSubarrays(marks);
+
       //  printSubarrays(marks);
       //  printMaxSubArraySum(marks);
       //  kadanes(marks);
