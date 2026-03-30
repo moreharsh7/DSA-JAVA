@@ -173,6 +173,12 @@ public class day1 {
     return trappedRainWater;
 }
 
+public static harshad(){
+  int c=1;
+  int b=2;
+  int d=c+b;
+  System.out.println(d);
+}
 
 
 
