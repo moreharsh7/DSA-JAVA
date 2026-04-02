@@ -29,6 +29,8 @@ class Sortings {
         bubbleSort(arr);
         printArr(arr);
         Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
+        
 
     }
 
