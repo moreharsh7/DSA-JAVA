@@ -184,14 +184,14 @@ public static harshad(){
 
 
     public static void main(String[] args) {
-      //  int marks[]={2,4,6,8,10,12};
+      //`  int marks[]={2,4,6,8,0,-1};
        int height[]={4,2,0,6,3,2,5};
        
 
-      //  printSubarrays(marks);
-      //  printMaxSubArraySum(marks);
+       printSubarrays(marks);
+        printMaxSubArraySum(marks);
       //  kadanes(marks);
-      //  printPairs(marks);
+       printPairs(marks);
       System.out.println("ANS IS "+trappedRainWater(height));
       
       //  reverseArray(marks);
