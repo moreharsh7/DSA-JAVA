@@ -194,14 +194,14 @@ public static harshad(){
        printPairs(marks);
       System.out.println("ANS IS "+trappedRainWater(height));
       
-      //  reverseArray(marks);
-      // for(int i=0;i<marks.length;i++){
-      //     System.out.print(marks[i]+" ");
-      // }
+       reverseArray(marks);
+      for(int i=0;i<marks.length;i++){
+          System.out.print(marks[i]+" ");
+      }
 
-       System.out.println(binarySearch(marks, key));
-       System.out.println("the largest number is "+getLargestElement(marks));
-       System.out.println("the smallest number is "+getSmallestElement(marks));
+      //  System.out.println(binarySearch(marks, key));
+      //  System.out.println("the largest number is "+getLargestElement(marks));
+      //  System.out.println("the smallest number is "+getSmallestElement(marks));
 
       
 
