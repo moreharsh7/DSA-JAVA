@@ -6,6 +6,9 @@ public class ReverseArray{
         int first=0,last=num.length-1;
        while(first<last){
         //swap 
+        //swap 
+        //swap 
+        //swap 
         int temp=num[last];
         num[last]=num[first];
         num[first]=temp;
