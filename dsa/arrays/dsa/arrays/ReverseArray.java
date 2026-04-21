@@ -7,6 +7,14 @@ public class ReverseArray{
        while(first<last){
         //swap 
 
+
+
+
+
+
+
+        
+
         
         int temp=num[last];
         num[last]=num[first];
