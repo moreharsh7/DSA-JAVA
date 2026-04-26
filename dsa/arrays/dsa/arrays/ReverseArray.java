@@ -8,13 +8,6 @@ public class ReverseArray{
         //swap 
 
 
-
-
-
-
-
-        
-
         
         int temp=num[last];
         num[last]=num[first];
